@@ -1,5 +1,7 @@
 import telebot
 from telebot import types
+import requests
+import json
 
 bot = telebot.TeleBot('5680128942:AAGvcEmSyNObpoV9DyV4YyqsoGei1hanAsc')
 API = '86e8cbac4d64f630c00a528611932773'
